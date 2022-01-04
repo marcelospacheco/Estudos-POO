@@ -1,0 +1,14 @@
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.exe
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.deps.json
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.runtimeconfig.json
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.runtimeconfig.dev.json
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.dll
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.pdb
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.csproj.AssemblyReference.cache
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.AssemblyInfoInputs.cache
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.AssemblyInfo.cs
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.dll
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.pdb
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\02-MinhaPrimeiraClasse\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.genruntimeconfig.cache

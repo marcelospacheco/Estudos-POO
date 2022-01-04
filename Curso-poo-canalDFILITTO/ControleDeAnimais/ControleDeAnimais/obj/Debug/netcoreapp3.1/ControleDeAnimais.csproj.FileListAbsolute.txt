@@ -1,0 +1,14 @@
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\bin\Debug\netcoreapp3.1\ControleDeAnimais.exe
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\bin\Debug\netcoreapp3.1\ControleDeAnimais.deps.json
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\bin\Debug\netcoreapp3.1\ControleDeAnimais.runtimeconfig.json
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\bin\Debug\netcoreapp3.1\ControleDeAnimais.runtimeconfig.dev.json
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\bin\Debug\netcoreapp3.1\ControleDeAnimais.dll
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\bin\Debug\netcoreapp3.1\ControleDeAnimais.pdb
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\obj\Debug\netcoreapp3.1\ControleDeAnimais.csproj.AssemblyReference.cache
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\obj\Debug\netcoreapp3.1\ControleDeAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\obj\Debug\netcoreapp3.1\ControleDeAnimais.AssemblyInfoInputs.cache
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\obj\Debug\netcoreapp3.1\ControleDeAnimais.AssemblyInfo.cs
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\obj\Debug\netcoreapp3.1\ControleDeAnimais.csproj.CoreCompileInputs.cache
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\obj\Debug\netcoreapp3.1\ControleDeAnimais.dll
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\obj\Debug\netcoreapp3.1\ControleDeAnimais.pdb
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\ControleDeAnimais\ControleDeAnimais\obj\Debug\netcoreapp3.1\ControleDeAnimais.genruntimeconfig.cache
