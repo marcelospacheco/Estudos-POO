@@ -1,5 +1,5 @@
 ﻿using System;
-using Classes.Aluno;
+
 
 namespace MediaAluno
 {
@@ -7,32 +7,26 @@ namespace MediaAluno
     {
         static void Main(string[] args)
         {
-            Aluno aluno1 = new Aluno();
+            var notaDig1 = 0;
+            var notaDig2 = 0;
+
+            Aluno al1 = new Aluno();
+
+            Console.WriteLine("PROGRAMA BÁSICO CALCULA A MÉDIA DE UM ALUNO");
+            Console.WriteLine("Aplicando (ou tentando, kkk) os pilares da POO");
 
             Console.WriteLine("Digite o nome do aluno: ");
-            aluno1.nome = Console.ReadLine();
+            al1.Nome = Console.ReadLine();
 
-            Console.WriteLine("Digite o sobrenome do aluno: ");
-            aluno1.sobrenome = Console.ReadLine();
+            Console.WriteLine("Digite a 1ª nota: ");
+            notaDig1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Digite a turma: ");
-            aluno1.turma = Console.ReadLine();
+            Console.WriteLine("Digite a 2ª nota: ");
+            notaDig2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Digite a Nota bimestre 1: ");
-            string nota1 = Console.ReadLine();
-            int num_nota1 = Int32.Parse(nota1);
-
-            
-            //aluno1.nota1 = nota1;
-            //aluno1.nota2 = 6;
-
-            Console.WriteLine($"O nome do aluno completo: {aluno1.nome} {aluno1.sobrenome}");
-            //Console.WriteLine($"O sobrenome do aluno é: {aluno1.sobrenome}");
-            Console.WriteLine($"A turma é: {aluno1.turma}");
-            Console.WriteLine($"Anota no Bimestre 1 foi: {num_nota1}");
-
-
-
+            al1.ApresentarAluno();
+            al1.ReceberNotas(notaDig1, notaDig2);
+            al1.CalcularMedia(notaDig1, notaDig2);
 
         }
     }
