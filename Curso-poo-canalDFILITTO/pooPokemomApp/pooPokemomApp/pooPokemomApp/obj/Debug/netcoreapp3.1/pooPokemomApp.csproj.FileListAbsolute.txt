@@ -1,0 +1,14 @@
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\bin\Debug\netcoreapp3.1\pooPokemomApp.exe
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\bin\Debug\netcoreapp3.1\pooPokemomApp.deps.json
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\bin\Debug\netcoreapp3.1\pooPokemomApp.runtimeconfig.json
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\bin\Debug\netcoreapp3.1\pooPokemomApp.runtimeconfig.dev.json
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\bin\Debug\netcoreapp3.1\pooPokemomApp.dll
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\bin\Debug\netcoreapp3.1\pooPokemomApp.pdb
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\obj\Debug\netcoreapp3.1\pooPokemomApp.csproj.AssemblyReference.cache
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\obj\Debug\netcoreapp3.1\pooPokemomApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\obj\Debug\netcoreapp3.1\pooPokemomApp.AssemblyInfoInputs.cache
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\obj\Debug\netcoreapp3.1\pooPokemomApp.AssemblyInfo.cs
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\obj\Debug\netcoreapp3.1\pooPokemomApp.csproj.CoreCompileInputs.cache
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\obj\Debug\netcoreapp3.1\pooPokemomApp.dll
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\obj\Debug\netcoreapp3.1\pooPokemomApp.pdb
+C:\Users\Amiga Oculta\source\repos\Estudos-POO\Curso-poo-canalDFILITTO\pooPokemomApp\pooPokemomApp\pooPokemomApp\obj\Debug\netcoreapp3.1\pooPokemomApp.genruntimeconfig.cache

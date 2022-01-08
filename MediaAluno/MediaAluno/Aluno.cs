@@ -6,8 +6,15 @@ namespace MediaAluno
 {
     class Aluno
     {
+        public Aluno()
+        {
+            this.Nome = "";
+            this.Nota1 = 0;
+            this.Nota2 = 0;
+        }
+
         public string Nome { get; set; }
-        private decimal Nota1, Nota2;
+        private string Nota1, Nota2;
         
 
         public void ApresentarAluno()
@@ -15,7 +22,7 @@ namespace MediaAluno
             Console.WriteLine($"Boa tarde, sou o aluno {Nome.ToUpper()}"); 
         }
 
-        public void ReceberNotas(decimal Nota1, decimal Nota2)
+        public void ReceberNotas(string Nota1, string Nota2)
         {
             Console.WriteLine($"A nota do 1º semestre foi: {Nota1}");
             Console.WriteLine($"A nota do 2º semestre foi: {Nota2}");

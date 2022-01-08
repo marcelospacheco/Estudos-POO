@@ -7,8 +7,8 @@ namespace MediaAluno
     {
         static void Main(string[] args)
         {
-            var notaDig1 = 0;
-            var notaDig2 = 0;
+            var notaDig1;
+            var notaDig2;
 
             Aluno al1 = new Aluno();
 
@@ -19,13 +19,13 @@ namespace MediaAluno
             al1.Nome = Console.ReadLine();
 
             Console.WriteLine("Digite a 1ª nota: ");
-            notaDig1 = Convert.ToInt32(Console.ReadLine());
+            notaDig1 = Console.ReadLine();
 
             Console.WriteLine("Digite a 2ª nota: ");
-            notaDig2 = Convert.ToInt32(Console.ReadLine());
+            notaDig2 = Convert.ToDecimal(Console.ReadLine());
 
             al1.ApresentarAluno();
-            al1.ReceberNotas(notaDig1, notaDig2);
+            al1.ReceberNotas(notaDig2, notaDig2);
             al1.CalcularMedia(notaDig1, notaDig2);
 
         }
